@@ -31,3 +31,5 @@
 1.3. Заключение: копируется введение в прошедшем времени
 
 Как это должно быть оформлено (ГОСТ)
+
+https://docs.google.com/presentation/d/1-mSNZhsMCnckn0tBG-aJS85K6BvRDu-wxRwwH3WyzCg/edit#slide=id.g253d2790068_1_0
